@@ -13,7 +13,7 @@ ok
 
 technical note
 --------------------------------------
-python3 -m runpy to file is not work.
+standard module runpy is not work with filename args.
 
 ```
 $ python3 -m runpy path.to.script
